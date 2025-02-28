@@ -4,9 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		RGd2chi+SxQnvahuIRtO83Rd0y4=
+		</data>
 		<key>BodyTextTableViewCell.nib</key>
 		<data>
 		1qJohzSc1Z3idvErgZjfw+63hsk=
+		</data>
+		<key>BottomBannerViewController.storyboardc/BottomBannerViewController.nib/objects-14.0+.nib</key>
+		<data>
+		o+eiCvN4N2UyiZgVGbamvioXVOM=
+		</data>
+		<key>BottomBannerViewController.storyboardc/BottomBannerViewController.nib/runtime.nib</key>
+		<data>
+		o+eiCvN4N2UyiZgVGbamvioXVOM=
+		</data>
+		<key>BottomBannerViewController.storyboardc/Info.plist</key>
+		<data>
+		o/OIbmY6xWJGD8fbGs19CFEAYIM=
+		</data>
+		<key>BottomBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<data>
+		re7kC7JzRcMOVTZJn5FYL6uGPwU=
+		</data>
+		<key>BottomBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		+BGIygxPyxJjZ5oNx9rWEaMjaw8=
 		</data>
 		<key>ButtonTableViewCell.nib</key>
 		<data>
@@ -14,15 +38,35 @@
 		</data>
 		<key>EvamDatabase.momd/EvamDatabase.mom</key>
 		<data>
-		rEQzAE1CblbqhH5MX2aUxaTHIdI=
+		UEsPW5r2fZ28mdFF219fhgaunu4=
 		</data>
 		<key>EvamDatabase.momd/VersionInfo.plist</key>
 		<data>
 		tyucZrGvUhtP4W1nhpvj5Ul0ggA=
 		</data>
+		<key>FullScreenViewController.storyboardc/FullScreenViewController.nib/objects-14.0+.nib</key>
+		<data>
+		NJX079Pht73ikOoxdYYpg5NsFVk=
+		</data>
+		<key>FullScreenViewController.storyboardc/FullScreenViewController.nib/runtime.nib</key>
+		<data>
+		NJX079Pht73ikOoxdYYpg5NsFVk=
+		</data>
+		<key>FullScreenViewController.storyboardc/Info.plist</key>
+		<data>
+		PvIUxDvwA9U3xck1hzobOFDuMh4=
+		</data>
+		<key>FullScreenViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<data>
+		QyqIOKKUDBsQMMFexucwzY5T7Xc=
+		</data>
+		<key>FullScreenViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		gOV6O4wEJiBaAbA+071dca/G8lk=
+		</data>
 		<key>Headers/EvamiOSCommonKit-Swift.h</key>
 		<data>
-		qkGNvwtVkObf+CJfPgHgKhQLUZM=
+		KxRG4CRmL84mGohD1ue5GZaXUSk=
 		</data>
 		<key>Headers/EvamiOSCommonKit.h</key>
 		<data>
@@ -38,75 +82,95 @@
 		</data>
 		<key>ImageTableViewCell.nib/objects-14.0+.nib</key>
 		<data>
-		ES776BiFxORDMNDG763XHya+X6M=
+		Ts8mYBMlA3FofrqOyFo/Z2xlirY=
 		</data>
 		<key>ImageTableViewCell.nib/runtime.nib</key>
 		<data>
 		bz8fH1tEWJX8a5izL0E0ttP5UQU=
 		</data>
-		<key>InAppViewController.storyboardc/InAppViewController.nib/objects-14.0+.nib</key>
-		<data>
-		xNuIsjrZUFdr5TT29Hv3FQYnWIU=
-		</data>
-		<key>InAppViewController.storyboardc/InAppViewController.nib/runtime.nib</key>
-		<data>
-		xNuIsjrZUFdr5TT29Hv3FQYnWIU=
-		</data>
-		<key>InAppViewController.storyboardc/Info.plist</key>
-		<data>
-		a8WTgkajyzff4RgTIH8yuG3cR9U=
-		</data>
-		<key>InAppViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
-		<data>
-		gb7MISVUIliPlFAEEPccGtNfGbg=
-		</data>
-		<key>InAppViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
-		<data>
-		cXxjYicZU8uSUj9l8fKnL/H+qmM=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		+BBVtIgSQtVwG/Nk9XTWRmYXogM=
+		ZSCHNaVNhUmTSHKqqlvWzksNxkw=
+		</data>
+		<key>ModalPopupController.storyboardc/Info.plist</key>
+		<data>
+		Q149rW9HGIFdSLt5pJbwSe54ipI=
+		</data>
+		<key>ModalPopupController.storyboardc/ModalPopupController.nib/objects-14.0+.nib</key>
+		<data>
+		fFyZGnLF0cEHTlsMhcF9hVZ5sUQ=
+		</data>
+		<key>ModalPopupController.storyboardc/ModalPopupController.nib/runtime.nib</key>
+		<data>
+		fFyZGnLF0cEHTlsMhcF9hVZ5sUQ=
+		</data>
+		<key>ModalPopupController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<data>
+		/P8nzli0OK7fzRic09GVnwY/TBI=
+		</data>
+		<key>ModalPopupController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		EfGIsihaFJTYH6muKg1/xWlkYfY=
+		</data>
+		<key>ModalViewController.storyboardc/Info.plist</key>
+		<data>
+		3QDf6YkdB4Bkrp67sgYFiuWdK+4=
+		</data>
+		<key>ModalViewController.storyboardc/ModalViewController.nib/objects-14.0+.nib</key>
+		<data>
+		AsDhx1ltU7UqrJ6XChhmHY9NZHQ=
+		</data>
+		<key>ModalViewController.storyboardc/ModalViewController.nib/runtime.nib</key>
+		<data>
+		AsDhx1ltU7UqrJ6XChhmHY9NZHQ=
+		</data>
+		<key>ModalViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<data>
+		Z9K0MuXi8XgdhuxJr0LSI/zhYu0=
+		</data>
+		<key>ModalViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		lBDdOtdJrgHOu8Y2zASBz8eB5Tw=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/KcJ5QXVz8K8m7Wx8u0dhqTUkjQ=
+		K48gETP8QzdupA6n9/sn8MdXm+o=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bZxfJuY0SwEbjD7aR3tX6qLOsqA=
+		srIdLVw0TzxjbQj4DQ33K9IlqQk=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yW4UOutaV7LZfuQKXhljDb0fP3U=
+		LEvNc88wkN7TUO0TQcP3vF2mh7M=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bZxfJuY0SwEbjD7aR3tX6qLOsqA=
+		srIdLVw0TzxjbQj4DQ33K9IlqQk=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FW9t4VfFRGhB6wmeOp4G4O/QfI8=
+		AxFtjjMDqsy8EUjc3kGcjH4DpgY=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/KcJ5QXVz8K8m7Wx8u0dhqTUkjQ=
+		K48gETP8QzdupA6n9/sn8MdXm+o=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jUynHUx/SIHU/HEsh6vn4P7NA3E=
+		Ye4FEeJnnHj0OzB73UtAe7WDqVw=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WiDIK7xrHTppUGNTHZqS9dQDLfQ=
+		6bvR683UpFDRm39T6Tm0NNbfvUA=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jUynHUx/SIHU/HEsh6vn4P7NA3E=
+		Ye4FEeJnnHj0OzB73UtAe7WDqVw=
 		</data>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5hYChXF00kx+ydIeiQG1q8tKXfc=
+		mzCS72XxeSPtzlgHZRke0G3cd8U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -116,14 +180,76 @@
 		<data>
 		uAlhD1OkPhpoVGLDFAgcVsY0SmQ=
 		</data>
+		<key>TopBannerViewController.storyboardc/Info.plist</key>
+		<data>
+		IZwgO8R5f4vyyEArZA7lQXA8uUU=
+		</data>
+		<key>TopBannerViewController.storyboardc/TopBannerViewController.nib/objects-14.0+.nib</key>
+		<data>
+		+w6uqOrDAjvcjPdEC/UW8eIFBGk=
+		</data>
+		<key>TopBannerViewController.storyboardc/TopBannerViewController.nib/runtime.nib</key>
+		<data>
+		+w6uqOrDAjvcjPdEC/UW8eIFBGk=
+		</data>
+		<key>TopBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<data>
+		ic1foHl1osy0r0RrGvS+n2j9ruk=
+		</data>
+		<key>TopBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		fhpD0m1Z0N6KqOGX75y4QjveXwk=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J42NvPqKHyKVHJ7TZJGkIjpxcqP38OwUzaBzTsR/jVo=
+			</data>
+		</dict>
 		<key>BodyTextTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			KNh7i6vqtjhamYjJIK0gfE/bCLs74MbZ2jV7/At+71M=
+			</data>
+		</dict>
+		<key>BottomBannerViewController.storyboardc/BottomBannerViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h3qitYZJt04yTNaUHxPTl4NCo/Vmq1S5J3ay2Bmfb6U=
+			</data>
+		</dict>
+		<key>BottomBannerViewController.storyboardc/BottomBannerViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h3qitYZJt04yTNaUHxPTl4NCo/Vmq1S5J3ay2Bmfb6U=
+			</data>
+		</dict>
+		<key>BottomBannerViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QlnjZm8wOTwdsbFQGe/X5jDaHfxeMwlXdd2G017NsfM=
+			</data>
+		</dict>
+		<key>BottomBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y+4bBfB8Vv2Zt/PXNsEHcnTyqZv5KAvmFqxz1J579Rc=
+			</data>
+		</dict>
+		<key>BottomBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cyE1uRUJAptu2JhhzFeO+gs9n0uvwOLQLcZ6uCzMx5c=
 			</data>
 		</dict>
 		<key>ButtonTableViewCell.nib</key>
@@ -137,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XQPubCu5gECr1T2lxMHLpUOYRnqKL6N7XqbDuyDCMqw=
+			IwoJRv3E/99NvbOnVy8q153v1Ut4yF7DmWAMwIbTD1A=
 			</data>
 		</dict>
 		<key>EvamDatabase.momd/VersionInfo.plist</key>
@@ -147,11 +273,46 @@
 			RxsW1M1uJOlJbGlXmkkVZqJ5IZwEuDcpiFL0KbsCLts=
 			</data>
 		</dict>
+		<key>FullScreenViewController.storyboardc/FullScreenViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mNum6GWhhHfueRuueuzJJpXzDJB17Pzp63vRPMtfbUM=
+			</data>
+		</dict>
+		<key>FullScreenViewController.storyboardc/FullScreenViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mNum6GWhhHfueRuueuzJJpXzDJB17Pzp63vRPMtfbUM=
+			</data>
+		</dict>
+		<key>FullScreenViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DxjLBT4vvpeR07kY7saZNspmZpkkSHWX3NyroeawZqU=
+			</data>
+		</dict>
+		<key>FullScreenViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Si6wpRaKcurk12y+fPpt1nNcc1jM30VA6uWQgfV6YhM=
+			</data>
+		</dict>
+		<key>FullScreenViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N+X72MbMBIMdKM5E1a1Fk4+LArjBXyrBSuOL9HyFiqk=
+			</data>
+		</dict>
 		<key>Headers/EvamiOSCommonKit-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xA1wDxrW4sKsGw3aCQpTBIbOXH8MjFw5VEgLPihyKOo=
+			KVrzIPyMZOy7L/h1fTBMxvZF48eQhCaEoTsPqnLV1yk=
 			</data>
 		</dict>
 		<key>Headers/EvamiOSCommonKit.h</key>
@@ -179,7 +340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnKt+W3bunNAu0YHKmSzfXnGRT/N1s8uzXHV/2Doc/0=
+			P0gUQyqYM64OugkMs3Lflvvu8b8lTV2txVXP4A2BxwE=
 			</data>
 		</dict>
 		<key>ImageTableViewCell.nib/runtime.nib</key>
@@ -189,109 +350,144 @@
 			TGQIQ9m11zq3LSZysjGTB0fKDLiPrXMiT0PIZC1Tmmk=
 			</data>
 		</dict>
-		<key>InAppViewController.storyboardc/InAppViewController.nib/objects-14.0+.nib</key>
+		<key>ModalPopupController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8cj7JBdfAXxtrXXsT6uSR5mhAK+8w+qb31Kl8L80DKk=
+			os4iR5Q5DwRRgSXzUDUFh5PiuA4+mhSLoNtsFC0yGZA=
 			</data>
 		</dict>
-		<key>InAppViewController.storyboardc/InAppViewController.nib/runtime.nib</key>
+		<key>ModalPopupController.storyboardc/ModalPopupController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8cj7JBdfAXxtrXXsT6uSR5mhAK+8w+qb31Kl8L80DKk=
+			ae1V87zJgoCw5estu87skLpRV0HrmeQQcmkMd0+cntM=
 			</data>
 		</dict>
-		<key>InAppViewController.storyboardc/Info.plist</key>
+		<key>ModalPopupController.storyboardc/ModalPopupController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1vJ/TRynCk3GcJlYwVIOJMLDtzp4PpCPnEr6h3R9c5A=
+			ae1V87zJgoCw5estu87skLpRV0HrmeQQcmkMd0+cntM=
 			</data>
 		</dict>
-		<key>InAppViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<key>ModalPopupController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HygNuErar2gY0J8OSbOzd7v/RpC7nB96m5CpvCywd/s=
+			pdKgR3QZKRL4WiOKCn+/0xpKd1kY1RwKtH+2soLexyM=
 			</data>
 		</dict>
-		<key>InAppViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<key>ModalPopupController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5pNcROIKzKKBkpF8owIrO1q5VzqtmuJWt7a+7TSJakg=
+			Okr1ro0tq4TfNz5Ir5cfl/XTmmV5U3lIfGnyEEq0VsE=
+			</data>
+		</dict>
+		<key>ModalViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0v2m5Z/IDRjBFqyqfq2DpGg/JVwZyNUy+MK2bRREUH4=
+			</data>
+		</dict>
+		<key>ModalViewController.storyboardc/ModalViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XgfjhTbD/X9O8WkRVrumw0Y8K6+CJmpWki6SylbRrJg=
+			</data>
+		</dict>
+		<key>ModalViewController.storyboardc/ModalViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XgfjhTbD/X9O8WkRVrumw0Y8K6+CJmpWki6SylbRrJg=
+			</data>
+		</dict>
+		<key>ModalViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DYUY31sjhFSv+88EGbBq5j9qnV08MzOwy9OsB0KpVfs=
+			</data>
+		</dict>
+		<key>ModalViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E4bzlDTTcMThYvW62vT+RN+7JuuyNItkD24e4U3KrNQ=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jWbAZnHxN2M7+lkgsZSpngnw8UiYprvfyGRNoRAjVpk=
+			shAHr5Tq+TDekRo9zzWxNEgZB0ggCXs0vy7y73Q+CqA=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KWFSIRKxGwni7Rm4lQ42wNVHSWGAbAj1cmG8ZSJSbHM=
+			AtL0C6q9ucJHW9TbFCTRWNXr+gRFfYpSkov6tb6/Z1U=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jDiGUYz8Dq/dn68CxkGuuofFEuDx/QEuvypFsAAYhS8=
+			DnES5GMi8W8cMd4d8L5Ya9q+ZE4GGLSXCd3vuT67tzg=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KWFSIRKxGwni7Rm4lQ42wNVHSWGAbAj1cmG8ZSJSbHM=
+			AtL0C6q9ucJHW9TbFCTRWNXr+gRFfYpSkov6tb6/Z1U=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bExDhGtQcq0ZD66feJ4ba2CW6PbdNxXd+z1O3AfdkB0=
+			aip3BKVwxd8T9H0pLhwuKal1qelLTnu0kL2SyyW+Ix0=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jWbAZnHxN2M7+lkgsZSpngnw8UiYprvfyGRNoRAjVpk=
+			shAHr5Tq+TDekRo9zzWxNEgZB0ggCXs0vy7y73Q+CqA=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5c6xlo8XczfJ/RSUWzrxk8moiC/7AH6knT86iWnaB4=
+			tNCwMxRgmJmI/iZWmUGclxPIj5bBHI6KxaYshLnvCN8=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CkIBfvlv9R1eJLKR7RUlaPfkpZ66+lQuBnsQG/cZ7Lc=
+			uWVZUm62DzBVaMWC9E2ldbHPUlT8NZL52JOvXeCIq9M=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5c6xlo8XczfJ/RSUWzrxk8moiC/7AH6knT86iWnaB4=
+			tNCwMxRgmJmI/iZWmUGclxPIj5bBHI6KxaYshLnvCN8=
 			</data>
 		</dict>
 		<key>Modules/EvamiOSCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sDntvD75Vu7r+sCgGq+LceVtejSMwwvocecTDThmmkU=
+			PyAHD5OV/ScTsg5S61eZeUcFaPAMi4Obp33joH3i9B8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -306,6 +502,41 @@
 			<key>hash2</key>
 			<data>
 			8UAoljz2rCcBVeR2wy5qGqNb0c2vSBR5jvPaEjHxpoM=
+			</data>
+		</dict>
+		<key>TopBannerViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4zZtbiMY98Jk1N49rwxL60QABAbAbw9qqYzmeBtlfNI=
+			</data>
+		</dict>
+		<key>TopBannerViewController.storyboardc/TopBannerViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VN/lH9mtPiYQT/Lv5V8nqRvLZcPsungtTYe8+GxCzD8=
+			</data>
+		</dict>
+		<key>TopBannerViewController.storyboardc/TopBannerViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VN/lH9mtPiYQT/Lv5V8nqRvLZcPsungtTYe8+GxCzD8=
+			</data>
+		</dict>
+		<key>TopBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			epScCQHZDRCXoWs0cfTzPeAVOZwg2vcZ431p5Z7rWpI=
+			</data>
+		</dict>
+		<key>TopBannerViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h5Kn26krRLUjy1wMKbsqPEaHcn01Zds+p6P1sD1+KJQ=
 			</data>
 		</dict>
 	</dict>
